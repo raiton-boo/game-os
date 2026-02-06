@@ -50,3 +50,6 @@ next-env.d.ts
 
 # docs (要件定義や設計書などのドキュメント。非公開に設定)
 docs/
+
+# docker compose file
+docker-compose.yml
