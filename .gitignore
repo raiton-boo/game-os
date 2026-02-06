@@ -47,3 +47,6 @@ next-env.d.ts
 # Jujutsu control folder
 
 /.jj/
+
+# docs (要件定義や設計書などのドキュメント。非公開に設定)
+docs/
